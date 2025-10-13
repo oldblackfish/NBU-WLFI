@@ -1,5 +1,6 @@
 # NBU-WLFI database
 
+Benchmark Database and Objective Metric for Wide Field of View Light Field Image Quality Measurement
 Rui Zhou, Gangyi Jiang, Yeyao Chen, Yueli Cui, Ting Luo, and Haiyong Xu.
 
 The manuscript has been submitted to IEEE TIM.
