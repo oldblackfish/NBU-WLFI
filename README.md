@@ -55,3 +55,6 @@ Test the individual distortion type performance using the following command:
 
 ### Result
 The performances of our EPPVS-BWLFQ metric on the NBU-WLFI datasets can reproduce these performances using the h5 results we provide in './EPPVS-BWLFQ/Results/...'.
+
+### Contact
+For any questions, feel free to contact: 2211100079@nbu.edu.cn or zhourui0628@163.com
