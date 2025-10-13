@@ -9,6 +9,9 @@ Please download the full database on [Baidu drive]() (code: NBU).
 
 The database contains 10 reference wide field of view light field images with 20 distorted versions for each, and their corresponding subjective quality scores.
 
+### Illustration of the central view of SRCs in the proposed database.
+![image](https://github.com/oldblackfish/NBU-WLFI/blob/main/fig/SRCs.png)
+
 The structure of the database is shown as follows:
 
     ------ NBU-WLFI
