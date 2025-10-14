@@ -7,7 +7,7 @@ Rui Zhou, Gangyi Jiang, Yeyao Chen, Yueli Cui, Ting Luo, and Haiyong Xu.
 The manuscript has been submitted to IEEE TIM.
 
 ### Get access to the NBU-WLFI database
-Please download the full database on [Baidu drive](https://pan.baidu.com/s/1m5NRPBh-D6_Oy4OtX7HlDw) (code: NBU).
+Please download the full database on [Baidu drive](https://pan.baidu.com/s/1m5NRPBh-D6_Oy4OtX7HlDw) (code: HUST).
 
 The database contains 10 reference wide field of view light field images with 20 distorted versions for each, and their corresponding subjective quality scores.
 
